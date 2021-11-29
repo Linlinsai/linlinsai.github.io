@@ -23,8 +23,8 @@
 
 <h2>Teaching at Tsinghua University</h3>
 <p> General Topology, TA.</p>
-<p> Mathematical Analisis 2, TA.</p>
-<p> Functional Analisis 1, TA.</p>
+<p> Mathematical Analysis 2, TA.</p>
+<p> Functional Analysis 1, TA.</p>
 <p> Calculus A, TA.</p>
 <p> Algebraic geometry 1, TA.</p>
 
